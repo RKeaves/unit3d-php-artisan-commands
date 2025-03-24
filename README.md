@@ -1,4 +1,4 @@
-# Unit3D Artisan Commands Reference
+# Unit3D php-artisan commands reference
 
 A comprehensive list of PHP artisan commands for Unit3D tracker management.
 
