@@ -4,10 +4,11 @@
   <img src="https://ptpimg.me/6o8x8j.png" alt="Centered Image" style="width: 12%;">
 </p>
 
+<p align="center">
+Master essential PHP Artisan commands to efficiently manage your Unit3D tracker.
+</p>
 
-Master essential PHP Artisan commands to efficiently manage your Unit3D tracker. Leverage these tools for seamless database migrations, caching, and system maintenance—ensuring your Laravel app runs smoothly and issues are resolved quickly.
-
-> **ALERT:** **Always test these commands on a staging or test server before using them in production.** Some commands can significantly alter data or disrupt service if not used correctly. Ensure you fully understand the purpose and impact of each command prior to execution.
+> **Always test these commands on a staging or test server before using them in production.** Some commands can significantly alter data or disrupt service if not used correctly. Ensure you fully understand the purpose and impact of each command prior to execution.
 
 
 ## Table of Contents
