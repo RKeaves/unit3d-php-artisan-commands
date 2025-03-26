@@ -1,4 +1,4 @@
-# Unit3d php-artisan Commands Reference
+# Unit3d php-artisan commands reference
 
 <p align="center">
   <img src="https://ptpimg.me/6o8x8j.png" alt="Centered Image" style="width: 12%;">
